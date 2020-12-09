@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyCxA_uyGazQQ2IPNfHRuuNW2z1sIsgy9yE",
-    authDomain: "laravelfcm-2bfc2.firebaseapp.com",
-    databaseURL: "https://laravelfcm-2bfc2.firebaseio.com",
-    projectId: "laravelfcm-2bfc2",
-    storageBucket: "laravelfcm-2bfc2.appspot.com",
-    messagingSenderId: "97175421000",
-    appId: "1:97175421000:web:30e8eca25e866fd352187d",
-    measurementId: "G-0WEX4NQCB7"
+    apiKey: "----> Secret ---->",
+    authDomain: "----> Secret ---->",
+    databaseURL: "----> Secret ---->",
+    projectId: "----> Secret ---->",
+    storageBucket: "----> Secret ---->",
+    messagingSenderId: "----> Secret ---->",
+    appId: "----> Secret ---->",
+    measurementId: "----> Secret ---->"
   };
   // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
